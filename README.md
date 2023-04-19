@@ -13,10 +13,8 @@ Desenvolvedor web especializado em WordPress/WooCommerce e em transição para o
 
 ## GitHub Stats
 
-![](http://profile-cards-247.vercel.app/api/cards/profile-details?username=wevertonj&theme=2077)
-
+![](http://profile-cards-247.vercel.app/api/cards/profile-details?username=wevertonj&theme=2077)<br>
 ![](http://profile-cards-247.vercel.app/api/cards/repos-per-language?username=wevertonj&exclude=html&theme=2077)
-![](http://profile-cards-247.vercel.app/api/cards/most-commit-language?username=wevertonj&exclude=html&theme=2077)
-
+![](http://profile-cards-247.vercel.app/api/cards/most-commit-language?username=wevertonj&exclude=html&theme=2077)<br>
 ![](http://profile-cards-247.vercel.app/api/cards/stats?username=wevertonj&theme=2077)
 ![](http://profile-cards-247.vercel.app/api/cards/productive-time?username=wevertonj&theme=2077&utcOffset=-3)
