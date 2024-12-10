@@ -1,15 +1,46 @@
 # Olá 👋, sou o Weverton, seja bem-vinde!
 
-Desenvolvedor web especializado em WordPress/WooCommerce e em transição para o mundo mobile com Dart/Flutter.
+32 anos, com 8 anos de experiência em desenvolvimento de software.
 
-## 💫 Sobre mim
-🔭 Além do meu trabalho comercial diário. Atualmente, estou trabalhando em um SDK para WooCommerce em Flutter, que é motivo de grande satisfação pelo nível de qualidade de código, principalmente por conseguir trazer conceitos de clean architecture que fazem sentido para o projeto e pelo alto nível de modularização. Este projeto está sendo um grande divisor de águas na minha carreira de desenvolvedor.
+## ⏳ Passado
 
-🌱 Estou aprendendo atualmente Machine Learning, a fim de aprimorar minhas habilidades em análise de dados e desenvolvimento de soluções inteligentes.
+Desenvolvedor autodidata. Comecei com PHP, trabalhando principalmente com WordPress, e com o tempo me expandi para várias outras tecnologias, tais como TS/JS, Dart/Flutter e até ensaiei um pouco de data science com Python.
+
+## 🌱 Presente
+
+Desde o inicio de 2024 decidi focar nas softskils que sempre foram um gargalo para mim, especialmente comunicação. Tem sido um grande desafio e tenho evoluido mais devagar do que gostaria, mas tem sido uma jornada de autodescoberta muito gratificante.
+
+## 🚀 Futuro
+
+Ser referência no mercado, indo além se tornar um líder, mas alguém que forma novos talentos. Como alguém que teve que se virar sozinho, quero deixar de ser parte do problema de profissionais que guardam todo o conhecimento para si e me tornar parte da solução, sendo o mentor que eu gostaria de ter tido quando comecei.
 
 ## 💻 Tecnologias
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Linguagens de Programação
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Frameworks e Bibliotecas
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+
+### Sistemas Operacionais
+
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## GitHub Stats
 
